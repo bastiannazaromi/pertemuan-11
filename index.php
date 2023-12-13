@@ -104,19 +104,15 @@
 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora eligendi, delectus dolor laudantium nobis incidunt repellat est reprehenderit!
 					</p>
 					<div class="d-flex">
-						<!-- Youtube -->
 						<a href="https://youtube.com/@maykomputer5117" target="_blank" class="mr-3 btn new-btn-outline-primary btn-sm rounded-full">
 							<i class="fab fa-youtube"></i>
 						</a>
-						<!-- Instagram -->
 						<a href="https://instagram.com/bastian.nazaromi" target="_blank" class="mr-3 btn new-btn-outline-primary btn-sm rounded-full">
 							<i class="fab fa-instagram"></i>
 						</a>
-						<!-- Twitter -->
 						<a href="https://twitter.com/jihanxix" target="_blank" class="mr-3 btn new-btn-outline-primary btn-sm rounded-full">
 							<i class="fab fa-twitter"></i>
 						</a>
-						<!-- Facebook -->
 						<a href="https://facebook.com/zlatan.ibrahimromay" target="_blank" class="mr-3 btn new-btn-outline-primary btn-sm rounded-full">
 							<i class="fab fa-facebook"></i>
 						</a>
@@ -384,7 +380,6 @@
 	</a>
 	<!-- Back to Top End -->
 
-	<!-- ... Bagian Lainnya ... -->
 	<script src="assets/bootstrap/js/jquery-3.6.4.min.js"></script>
 	<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 

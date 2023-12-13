@@ -243,7 +243,7 @@
 				</div>
 				<div class="mb-4 col-md-6 col-lg-4">
 					<div class="overflow-hidden rounded-md shadow-md">
-						<img src="assets/img/portfolio/3.png" alt="Covid 19" class="w-100">
+						<img src="assets/img/portfolio/7.png" alt="Covid 19" class="w-100">
 					</div>
 					<h5 class="mt-3 mb-2 text-xl font-semibold text-dark">
 						PMB POLTEKHARBER
